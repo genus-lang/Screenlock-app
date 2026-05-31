@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScreenLock</string>
+    <string name="device_admin_description">Allow this app to lock your screen.</string>
+    <string name="accessibility_description">Allows the app to lock the screen without disabling Biometric / Fingerprint unlock.</string>
+</resources>
